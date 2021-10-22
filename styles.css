@@ -1,0 +1,119 @@
+h2{
+
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+header{
+position:fixed;
+color: white;
+background-color:darkblue;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center; 
+padding: 2px;
+width: 100%;
+margin:1px;
+
+z-index: 1;
+top: 0px;
+left:0px;
+
+}
+
+
+
+
+a{
+
+    color:white;
+
+}
+
+
+p{
+letter-spacing: 0.4px;
+line-break: loose;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+img{
+border-width: 3px;
+border-style:solid
+
+}
+.om{
+font-family: 'Times New Roman', Times, serif;
+text-shadow: lightgray;
+
+}
+
+label{
+text-align: center;
+display: inline;
+
+}
+input{
+    display: inline;
+    text-align: center;
+}
+
+form{
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+  
+  
+}
+
+.c{
+    text-align: center;
+    font-style: italic;
+  
+    background: linear-gradient(to right, #ef5350, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 0px;
+    padding: 0px;
+
+}
+.p {
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+.a{
+    width: 20%;
+    height: 20%;
+    z-index: -1;
+    
+}
+
+.q{
+    z-index: -1;
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    
+}
+
+.q2{
+    z-index: -1;
+    display: inline-flex;
+    /* position: absolute; */
+    padding:0px
+    float:right
+    
+} 
+.W{
+    color:black;
+    text-align: center;
+    z-index: 1;
+    display:    block;
+}
+.q3{
+float: right;
+margin-left: 200px;
+position: relative;
+left:70%
+
+}
